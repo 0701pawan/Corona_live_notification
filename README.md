@@ -7,3 +7,5 @@ beautifulsoup5:- It is used to manipulate the data which we get particularly in 
 request :- It is used to fetch the data of the website
 
 time :- this is used to delay the time of the notification
+# Watch how it works
+https://youtu.be/10IwS0ZC2ko
